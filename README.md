@@ -26,6 +26,7 @@ I enjoy blending electronics with software, and I'm constantly exploring new too
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=salinps&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salinps&layout=compact&theme=tokyonight)
+![Visitors](https://komarev.com/ghpvc/?username=salinps&color=blue)
 
 ---
 
